@@ -1,10 +1,10 @@
 - 👋 Hi, I’m @shamzen
 - 👀 I’m interested in cyber security, Bug hunting
 - 🌱 I’m currently learning bug biunty
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on pentresting
 - 📫 mail at shamzwn96@gmail.com
 - 😄 Pronouns: sham
-- ⚡ Fun fact: ...
+- ⚡ 
 
 <!---
 shamzen/shamzen is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
